@@ -8,3 +8,5 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 
 * Where are the database URIs located in Hasura Cloud and the Hasura Console? Answer: [video](https://youtu.be/v6iHkqbjE2c)
 * What is a good way to build queries or to get better perf out of table queries? Answer: [video](https://youtu.be/fnuy2FHGI1c)
+
+If you're like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
