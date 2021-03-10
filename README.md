@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the Hasura #100DaysOfCode && #AMA Repo Site
 
-You can use the [editor on GitHub](https://github.com/hasura/ask-me-anything/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+If you want to clone or take a look directly navigate to the [repo](https://github.com/hasura/ask-me-anything/). If you'd like to submit a question for the AMA sessions, file an issue here, and we'll get that added to the queue to get answered! Once the question is fielded during one of the "[Hasura #100DaysOfCode && #AMA](https://twitch.tv/hasurahq)" live stream I'll get it added here as an answer file!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cheers!
 
-### Markdown
+The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily at 11am Pacific. Join us anytime and ask questions live during stream, fill out an [question issue here](https://github.com/hasura/ask-me-anything/issues/new/choose), or [join our discord](https://discord.com/invite/hasura) and ask there! For the questions that have answers, here's a list of questions we've covered so far:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hasura/ask-me-anything/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Where are the database URIs located in Hasura Cloud and the Hasura Console? Answer: [video](https://youtu.be/v6iHkqbjE2c)
+* What is a good way to build queries or to get better perf out of table queries? Answer: [video](https://youtu.be/fnuy2FHGI1c)
