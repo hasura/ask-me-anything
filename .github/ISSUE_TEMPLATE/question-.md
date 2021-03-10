@@ -6,7 +6,7 @@ labels: 'question'
 assignees: 'Adron'
 
 ---
-Then add details here, such as links, and of course Github supports markdown so you can add code like this!
+Then add details here, such as [links](https://guides.github.com/features/mastering-markdown/), and of course Github supports markdown so you can add code like this!
 
 ```
 var rows = prompt("How many rows for your multiplication table?");
