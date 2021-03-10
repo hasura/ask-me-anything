@@ -1,4 +1,4 @@
-## Welcome to the Hasura #100DaysOfCode && #AMA Repo Site
+## [Welcome to the Hasura #100DaysOfCode && #AMA Repo Site](https://hasura.github.io/ask-me-anything/)
 
 If you want to clone or take a look directly navigate to the [repo](https://github.com/hasura/ask-me-anything/). If you'd like to submit a question for the AMA sessions, file an issue here, and we'll get that added to the queue to get answered! Once the question is fielded during one of the "[Hasura #100DaysOfCode && #AMA](https://twitch.tv/hasurahq)" live stream I'll get it added here as an answer file!
 
