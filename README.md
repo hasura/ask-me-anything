@@ -9,5 +9,9 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * Where are the database URIs located in Hasura Cloud and the Hasura Console? Answer: [video](https://youtu.be/v6iHkqbjE2c)
 * What is a good way to build queries or to get better perf out of table queries? Answer: [video](https://youtu.be/fnuy2FHGI1c)
 * What does the .NET ecosystem look like for GraphQL & is it maintained? [video](https://youtu.be/U1sLbRl8IkQ) & [article with links from video](dotnet-graphql-links.md)
+* Schema migrations console vs. 'hasura console' best practice. Answer: [video](https://youtu.be/82OnqotEBcA)
+* How to connect to the database with a 3rd Party tool (like [DataGrip](https://www.jetbrains.com/datagrip/)) from the local development quickstart docker-compose setup? [video](https://youtu.be/FTSIZ7HdHc8)
+* How do you draw relationships between tables in Hasura vs. the Database? [video](https://youtu.be/CMdLV4OC7G4)
+* Is there a way to map db columns to GraphQL entity properties in Hasura? (Hat tip to @eatcode @iteswendell [video](https://youtu.be/hiYwejjjNW8)
 
 If you're like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
