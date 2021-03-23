@@ -12,7 +12,7 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * Schema migrations console vs. 'hasura console' best practice. Answer: [video](https://youtu.be/82OnqotEBcA)
 * How to connect to the database with a 3rd Party tool (like [DataGrip](https://www.jetbrains.com/datagrip/)) from the local development quickstart docker-compose setup? [video](https://youtu.be/FTSIZ7HdHc8)
 * How do you draw relationships between tables in Hasura vs. the Database? [video](https://youtu.be/CMdLV4OC7G4)
-* Is there a way to map db columns to GraphQL entity properties in Hasura? (Hat tip to @eatcode @iteswendell [video](https://youtu.be/hiYwejjjNW8)
+* Is there a way to map db columns to GraphQL entity properties in Hasura? (Hat tip to [@iteswendell](https://github.com/itswendell) [video](https://youtu.be/hiYwejjjNW8)
 * What are some strategies to research GraphQL query performance? [video](https://youtu.be/7kN-p6fhsyw)
 * Can a read-only database be connected to with Hasura? [video](https://youtu.be/vNb3m6fplwI)
 * Is there a good data type to use for time stamps in Hasura? [video](https://youtu.be/ESNjXT5yHU0)
