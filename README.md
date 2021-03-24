@@ -17,5 +17,6 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * Can a read-only database be connected to with Hasura? [video](https://youtu.be/vNb3m6fplwI)
 * Is there a good data type to use for time stamps in Hasura? [video](https://youtu.be/ESNjXT5yHU0)
 * What is the suggested way to setup Hasura for local development? [video](https://youtu.be/NnbkG5vrF_A) for even more in depth, check out the longer form video "[Hasura Coder Setup and Workflow with Migrations, Metadata, & Seeds](https://youtu.be/NnbkG5vrF_A)".
+* What gets built out when I use the Hasura Console to build out migrations? [video](https://youtu.be/GjfSV-NxXaw)
 
 If you're like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
