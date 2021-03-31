@@ -16,7 +16,7 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * What are some strategies to research GraphQL query performance? [video](https://youtu.be/7kN-p6fhsyw)
 * Can a read-only database be connected to with Hasura? [video](https://youtu.be/vNb3m6fplwI)
 * Is there a good data type to use for time stamps in Hasura? [video](https://youtu.be/ESNjXT5yHU0)
-* What is the suggested way to setup Hasura for local development? [video](https://youtu.be/NnbkG5vrF_A) for even more in depth, check out the longer form video "[Hasura Coder Setup and Workflow with Migrations, Metadata, & Seeds](https://youtu.be/NnbkG5vrF_A)".
+* What is the suggested way to setup Hasura for local development? [video](https://youtu.be/NnbkG5vrF_A) for even more in depth, check out the longer form video "[Hasura Coder Setup and Workflow with Migrations, Metadata, & Seeds](https://youtu.be/AUY5tV4rA4w)".
 * What gets built out when I use the Hasura Console to build out migrations? [video](https://youtu.be/GjfSV-NxXaw)
 * Is there a way to map GraphQL to (.NET) Entity Relationship Diagrams? [video](https://youtu.be/twdx24-xyXw) & for more .NET information, check out [these links](dotnet-graphql-links.md).
 * What is the history behind the Hasura logo? [video](https://youtu.be/x3nxSD4h57Q)
