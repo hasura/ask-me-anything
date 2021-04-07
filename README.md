@@ -21,6 +21,7 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * Is there a way to map GraphQL to (.NET) Entity Relationship Diagrams? [video](https://youtu.be/twdx24-xyXw) & for more .NET information, check out [these links](dotnet-graphql-links.md).
 * What is the history behind the Hasura logo? [video](https://youtu.be/x3nxSD4h57Q)
 * What are your favorite... specifically your go to databases? [video](https://youtu.be/aCaGJ1XR_i0)
+* What are some good ways to develop applications using Hasura and have environments split like UAT, QA, Live, Prod, etc? [video](https://youtu.be/3JFc2K-WPhM)
 
 If you'd like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
 
