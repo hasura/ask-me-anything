@@ -23,6 +23,8 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * What are your favorite... specifically your go to databases? [video](https://youtu.be/aCaGJ1XR_i0)
 * What are some good ways to develop applications using Hasura and have environments split like UAT, QA, Live, Prod, etc? [video](https://youtu.be/3JFc2K-WPhM)
 * What is the UUID column type good for and what exactly is a UUID? [video](https://youtu.be/tQ8AaQyKKFk)
+* What are the supported character data types in Hasura? [video](https://youtu.be/4FJ0QgzmptU)
+* What numeric data types does Hasura support in relation to the underlying database(s)? [video](https://youtu.be/oLNjr7j8tOs)
 
 If you'd like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
 
