@@ -25,6 +25,8 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * What is the UUID column type good for and what exactly is a UUID? [video](https://youtu.be/tQ8AaQyKKFk)
 * What are the supported character data types in Hasura? [video](https://youtu.be/4FJ0QgzmptU)
 * What numeric data types does Hasura support in relation to the underlying database(s)? [video](https://youtu.be/oLNjr7j8tOs)
+* What's your practice when iterating through development cycles to clean up your containers and images? [video](https://youtu.be/TK6ECENT-uE)
+* Is there an option or ability to use short IDs in Postgres or Hasura? [video](https://youtu.be/DdycuIVb2vI)
 
 If you'd like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
 
