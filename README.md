@@ -28,6 +28,10 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * What's your practice when iterating through development cycles to clean up your containers and images? [video](https://youtu.be/TK6ECENT-uE)
 * Is there an option or ability to use short IDs in Postgres or Hasura? [video](https://youtu.be/DdycuIVb2vI)
 * How do I connect SQL Server with Hasura? [video](https://youtu.be/rt2LYVGog8Y)
+* How does PostgreSQL scale? [video](https://youtu.be/aDLyjfuz-Uc)
+* How do you remove tables from Hasura once they're added to the metadata? [video](https://youtu.be/YNNNjr3c48U)
+* Building a JavaScript tool to generate data (CSV) for import into PostgreSQL. [video](https://youtu.be/U2El5fOz5l4)
+* How to get COPY automated for bulk CSV on a container running PostgreSQL? [video](https://youtu.be/aDLyjfuz-Uc)
 
 If you'd like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
 
