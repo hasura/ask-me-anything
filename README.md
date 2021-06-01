@@ -22,16 +22,16 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * What is the history behind the Hasura logo? [video](https://youtu.be/x3nxSD4h57Q)
 * What are your favorite... specifically your go to databases? [video](https://youtu.be/aCaGJ1XR_i0)
 * What are some good ways to develop applications using Hasura and have environments split like UAT, QA, Live, Prod, etc? [video](https://youtu.be/3JFc2K-WPhM)
-* What is the UUID column type good for and what exactly is a UUID? [video](https://youtu.be/tQ8AaQyKKFk)
+* What is the UUID column type good for and what exactly is a UUID? [video](https://youtu.be/tQ8AaQyKKFk) [blog post](https://compositecode.blog/2021/04/14/quick-answers-what-is-the-uuid/)
 * What are the supported character data types in Hasura? [video](https://youtu.be/4FJ0QgzmptU)
 * What numeric data types does Hasura support in relation to the underlying database(s)? [video](https://youtu.be/oLNjr7j8tOs)
-* What's your practice when iterating through development cycles to clean up your containers and images? [video](https://youtu.be/TK6ECENT-uE)
+* What's your practice when iterating through development cycles to clean up your containers and images? [video](https://youtu.be/TK6ECENT-uE) [blog post](https://compositecode.blog/2021/04/15/ways-to-cleanup-docker-containers-images/)
 * Is there an option or ability to use short IDs in Postgres or Hasura? [video](https://youtu.be/DdycuIVb2vI)
 * How do I connect SQL Server with Hasura? [video](https://youtu.be/rt2LYVGog8Y)
-* How does PostgreSQL scale? [video](https://youtu.be/aDLyjfuz-Uc)
-* How do you remove tables from Hasura once they're added to the metadata? [video](https://youtu.be/YNNNjr3c48U)
-* Building a JavaScript tool to generate data (CSV) for import into PostgreSQL. [video](https://youtu.be/U2El5fOz5l4)
-* How to get COPY automated for bulk CSV on a container running PostgreSQL? [video](https://youtu.be/aDLyjfuz-Uc)
+* How does PostgreSQL scale? [video](https://youtu.be/aDLyjfuz-Uc) [blog post](https://compositecode.blog/2021/05/11/scaling-postgresql/)
+* How do you remove tables from Hasura once they're added to the metadata? [video](https://youtu.be/YNNNjr3c48U) 
+* Building a JavaScript tool to generate data (CSV) for import into PostgreSQL. [video](https://youtu.be/U2El5fOz5l4) [blog post](https://compositecode.blog/2021/05/12/javascript-csv-data-generation/)
+* How to get COPY automated for bulk CSV on a container running PostgreSQL? [video](https://youtu.be/aDLyjfuz-Uc) [blog post](https://compositecode.blog/2021/05/14/getting-copy-for-bulk-csv-working-on-a-container-running-postgresql/)
 
 If you'd like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
 
