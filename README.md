@@ -32,6 +32,7 @@ The Hasura Codes [#100DaysOfCode && #AMA](https://twitch.tv/hasurahq) is daily a
 * How do you remove tables from Hasura once they're added to the metadata? [video](https://youtu.be/YNNNjr3c48U) 
 * Building a JavaScript tool to generate data (CSV) for import into PostgreSQL. [video](https://youtu.be/U2El5fOz5l4) [blog post](https://compositecode.blog/2021/05/12/javascript-csv-data-generation/)
 * How to get COPY automated for bulk CSV on a container running PostgreSQL? [video](https://youtu.be/aDLyjfuz-Uc) [blog post](https://compositecode.blog/2021/05/14/getting-copy-for-bulk-csv-working-on-a-container-running-postgresql/)
+* What is a good way to get up and running with SQL Server and Hasura locally for dev work? [video](https://youtu.be/xkgChrkilpQ)
 
 If you'd like to just check out the existing questions, scroll through the [questions issue list](https://github.com/hasura/ask-me-anything/issues).
 
